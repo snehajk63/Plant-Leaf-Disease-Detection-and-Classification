@@ -1,4 +1,4 @@
-# Wheat Leaf Disease Detection and Classification
+# Plant Leaf Disease Detection and Classification
 
 ## Project Overview
 
